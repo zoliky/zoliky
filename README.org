@@ -1,1 +1,1 @@
-To see a list of all the projects I've been working on, [[https://github.com/zoliky?tab=repositories][click here]].
+[[https://github.com/zoliky?tab=repositories][Projects I've been working on]] | [[https://www.freshports.org/search.php?stype=maintainer&method=exact&query=ports%40zoltankiraly.com][FreeBSD ports I maintain]]
